@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "saitonized"
   spec.version       = Saitonized::VERSION
   spec.authors       = ["KazumasaYasui"]
-  spec.email         = ["silver.soul39@gmail.com"]
+  spec.email         = [""]
 
   spec.summary       = %q{Saitonized messes up Japanese.}
   spec.description   = %q{Please use for learning Japanese.}
